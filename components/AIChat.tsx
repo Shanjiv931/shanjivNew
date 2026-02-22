@@ -9,7 +9,7 @@ const AIChat: React.FC = () => {
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [messages, setMessages] = useState<ChatMessage[]>([
-    { role: 'model', text: "Hi! I'm the AI assistant for this portfolio. Ask me anything about Alex's skills, projects, or experience.", timestamp: new Date() }
+    { role: 'model', text: "Hi! I'm the AI assistant for this portfolio. Ask me anything about Shanjiv's skills, projects, or experience.", timestamp: new Date() }
   ]);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
