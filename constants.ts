@@ -42,12 +42,12 @@ export const PROJECTS: Project[] = [
   },
   {
     id: 2,
-    title: "SLPA Capstone Project",
+    title: "Selpha Capstone Project",
     description: "A comprehensive developer solution for student learning platform analytics. Built to track and improve student performance.",
     tags: ["React Native", "TypeScript", "Tailwind CSS", "Supabase"],
     imageUrl: "https://picsum.photos/600/400?random=1",
-    link: "https://newslpa.netlify.app/",
-    githubUrl: "https://github.com/Shanjiv931/new_slpa"
+    link: "https://selpha.netlify.app/",
+    githubUrl: "https://github.com/Shanjiv931/selpha"
   }
 ];
 
